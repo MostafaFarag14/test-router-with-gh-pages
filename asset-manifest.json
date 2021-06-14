@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/testrouter/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/testrouter/static/js/main.08a37bc0.chunk.js",
-    "main.js.map": "/testrouter/static/js/main.08a37bc0.chunk.js.map",
-    "runtime-main.js": "/testrouter/static/js/runtime-main.28b97746.js",
-    "runtime-main.js.map": "/testrouter/static/js/runtime-main.28b97746.js.map",
-    "static/js/2.113e33ff.chunk.js": "/testrouter/static/js/2.113e33ff.chunk.js",
-    "static/js/2.113e33ff.chunk.js.map": "/testrouter/static/js/2.113e33ff.chunk.js.map",
-    "static/js/3.4250f36f.chunk.js": "/testrouter/static/js/3.4250f36f.chunk.js",
-    "static/js/3.4250f36f.chunk.js.map": "/testrouter/static/js/3.4250f36f.chunk.js.map",
-    "index.html": "/testrouter/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/testrouter/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.113e33ff.chunk.js.LICENSE.txt": "/testrouter/static/js/2.113e33ff.chunk.js.LICENSE.txt"
+    "main.css": "/test-router-with-gh-pages/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/test-router-with-gh-pages/static/js/main.e71599df.chunk.js",
+    "main.js.map": "/test-router-with-gh-pages/static/js/main.e71599df.chunk.js.map",
+    "runtime-main.js": "/test-router-with-gh-pages/static/js/runtime-main.d70a71cb.js",
+    "runtime-main.js.map": "/test-router-with-gh-pages/static/js/runtime-main.d70a71cb.js.map",
+    "static/js/2.113e33ff.chunk.js": "/test-router-with-gh-pages/static/js/2.113e33ff.chunk.js",
+    "static/js/2.113e33ff.chunk.js.map": "/test-router-with-gh-pages/static/js/2.113e33ff.chunk.js.map",
+    "static/js/3.4250f36f.chunk.js": "/test-router-with-gh-pages/static/js/3.4250f36f.chunk.js",
+    "static/js/3.4250f36f.chunk.js.map": "/test-router-with-gh-pages/static/js/3.4250f36f.chunk.js.map",
+    "index.html": "/test-router-with-gh-pages/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/test-router-with-gh-pages/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.113e33ff.chunk.js.LICENSE.txt": "/test-router-with-gh-pages/static/js/2.113e33ff.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.28b97746.js",
+    "static/js/runtime-main.d70a71cb.js",
     "static/js/2.113e33ff.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.08a37bc0.chunk.js"
+    "static/js/main.e71599df.chunk.js"
   ]
 }
