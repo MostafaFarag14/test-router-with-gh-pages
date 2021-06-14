@@ -1,7 +1,7 @@
 {
   "name": "test",
   "version": "0.1.0",
-  "homepage": "http://mostafafarag14.github.io/myapp",
+  "homepage": "http://mostafafarag14.github.io/test-router-with-gh-pages",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
